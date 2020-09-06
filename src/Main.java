@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args){
 
         System.out.println("Square");
-        Square square = new Square(1,1,1,2,2,2,2,1);
+        Square square = new Square(1,1,1,5,5,5,5,1);
         System.out.println("Perimeter is: " + square.perimeter());
         System.out.println("Square is: " + square.square());
 
